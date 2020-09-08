@@ -1,0 +1,5 @@
+
+	html-validate FILENAME.. (ma wyœwietlaæ listê b³êdów we wszystkich plikach .html)
+	
+	autoprefixer-cli -o style.prefixed.css style.css (ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css)
+

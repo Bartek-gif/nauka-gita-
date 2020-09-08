@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Bartek-gif/nauka-gita-#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.12"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.12",
+    "html-validate": "^3.2.0"
   },
   "dependencies": {},
   "description": ""
